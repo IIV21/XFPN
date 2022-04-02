@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174177554326",
+    "project_id": "xfpn-afb43",
+    "storage_bucket": "xfpn-afb43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174177554326:android:cd129ab607c19f8b1357b7",
+        "android_client_info": {
+          "package_name": "com.companyname.xfpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174177554326-28an7sdbckb67u0ke89nq9ntfaf8v0uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqKLEk1-_7vAo3VEy3GOxNr9lT2NQd-gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174177554326-28an7sdbckb67u0ke89nq9ntfaf8v0uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
